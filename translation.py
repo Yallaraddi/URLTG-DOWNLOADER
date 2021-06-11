@@ -10,7 +10,7 @@ Support Group : @Hack_Crack_MASTER
 © @BigMovieCollection ,"""
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
-    UPGRADE_TEXT = "<b>👉 Create own Clone Bot.. </b>  /help for Details"
+    UPGRADE_TEXT = "</b>  /help for Details"
     FORMAT_SELECTION = "Select the desired format: <a href='{}'>file size might be approximate</a> \nIf you want to set custom thumbnail, send photo before or quickly after tapping on any of the below buttons.\nYou can use /deletethumbnail to delete the auto-generated thumbnail."
     SET_CUSTOM_USERNAME_PASSWORD = """If you want to download premium videos, provide in the following format:
 URL | filename | username | password"""
@@ -33,9 +33,9 @@ URL | filename | username | password"""
     USER_ADDED_TO_DB = "User <a href='tg://user?id={}'>{}</a> added to {} till {}."
     CURENT_PLAN_DETAILS = """Current plan details
 --------
-Telegram ID: <code>{}</code>
+Telegram ID: @REDDI404
 Plan name: Free Cloned User
-Expires on: 31/12/2020"""
+Expires on: 31/12/2021"""
     HELP_USER = """Hai am URL Uploader bot..
     
 1. Send url (Link|New Name with Extension).
@@ -45,8 +45,6 @@ Expires on: 31/12/2020"""
    DFile  - Give File with Screenshots
    Video  - Give File as video without Screenshots
    DFile  - Give File without Screenshots
-   
-<b>👉 Create own Clone Bot :</b> 👉 <a href="https://youtu.be/QkAkSLBgoYw">Diploy</a>
 
 --------
 Send /me to know current plan details
@@ -68,11 +66,11 @@ Support Group : @Hack_Crack_MASTER
     ERR_ONLY_TWO_MEDIA_IN_ALBUM = "Media Album should contain only two photos. Please re-send the media album, and then try again, or send only two photos in an album."
     INVALID_UPLOAD_BOT_URL_FORMAT = "URL format is incorrect. make sure your url starts with either http:// or https://. You can set custom file name using the format link | file_name.extension"
     ABUSIVE_USERS = "You are not allowed to use this bot. If you think this is a mistake, please check /me to remove this restriction."
-    FF_MPEG_RO_BOT_AD_VER_TISE_MENT = "https://telegram.dog/FFMpegRoBot"
+    FF_MPEG_RO_BOT_AD_VER_TISE_MENT = "https://telegram.dog/Hack_Crack_MASTER"
     EXTRACT_ZIP_INTRO_ONE = "Send a compressed file first, Then reply /unzip command to the file."
     EXTRACT_ZIP_INTRO_THREE = "Analyzing received file. ⚠️ This might take some time. Please be patient. "
     UNZIP_SUPPORTED_EXTENSIONS = ("zip", "rar")
-    EXTRACT_ZIP_ERRS_OCCURED = "Sorry. Errors occurred while processing compressed file. Please check everything again twice, and if the issue persists, report this to <a href='https://telegram.dog/ThankTelegram'>@Hack_Crack_MASTER</a>"
+    EXTRACT_ZIP_ERRS_OCCURED = "Sorry. Errors occurred while processing compressed file. Please check everything again twice, and if the issue persists, report this to <a href='https://telegram.dog/Hack_Crack_MASTER'>@Hack_Crack_MASTER</a>"
     EXTRACT_ZIP_STEP_TWO = """Select file_name to upload from the below options.
 You can use /rename command after receiving file to rename it with custom thumbnail support."""
     CANCEL_STR = "Process Cancelled"
